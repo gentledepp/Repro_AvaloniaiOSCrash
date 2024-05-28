@@ -3,3 +3,8 @@
 ################################################################################
 
 .vs
+.idea
+bin
+obj
+AppPackages
+/AvaloniaiOSCrash_v11.1.0-beta1/WindowsSetup/BundleArtifacts/x86.txt
